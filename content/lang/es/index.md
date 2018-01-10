@@ -11,7 +11,7 @@ toc: false
         <logo height="1.5em" title="Preact" text>Preact</logo>
     </h1>
 
-    <p>Una alternativa veloz a React en 3kB con la misma API de ES6.</p>
+    <p>Una alternativa veloz a React en 3kB con la misma API de ES6</p>
 
     <p>
         <a href="/guide/getting-started" class="home-button">Primeros pasos</a>
@@ -25,7 +25,7 @@ toc: false
 
 
 <section class="home-top">
-    <h1>Una librería distinta.</h1>
+    <h1>Una librería distinta</h1>
 </section>
 
 
@@ -35,8 +35,7 @@ toc: false
     <h2>Más cerca del metal</h2>
 
     <p>
-        Preact provee la abstracción más pequeña del Virtual DOM sobre el DOM.
-        La web es una plataforma estable, es tiempo de dejar de reimplementarla en nombre de la seguridad.
+        Preact provee la abstracción más pequeña del Virtual DOM sobre el DOM. La web es una plataforma estable, es tiempo de dejar de reimplementarla en nombre de la seguridad.
     </p>
 
     <p>
@@ -51,12 +50,11 @@ toc: false
     <h2>Tamaño reducido</h2>
 
     <p>
-        La mayoría de los frameworks de UI son suficientemente largos como para ser la mayor parte del tamaño del JavaScript de una app.
-        Preact es distinto: Es suficientemente pequeño como para que <em>tu código</em> sea la parte más pesada de tu aplicación.
+        La mayoría de los frameworks de UI son lo suficientemente grandes como para conformar la mayor parte del JavaScript de una app. Preact es distinto: Es lo suficientemente pequeño como para que <em>tu código</em> sea la parte más pesada de tu aplicación.
     </p>
 
     <p>
-        Esto significa menos JavaScript para descargar, interpretar y ejecutar - dejando más tiempo para tu código, para que puedas construir una experiencia que tú definas sin tener que pelear para mantener el framework bajo control.
+        Esto significa menos JavaScript para descargar, interpretar y ejecutar —dejando más tiempo para tu código, para que puedas desarrollar una experiencia única sin tener que enfrentarte al framework para mantenerlo bajo control.
     </p>
 </section>
 
@@ -64,14 +62,14 @@ toc: false
 <section class="home-section">
     <img src="/assets/home/performance.svg">
 
-    <h2>Gran Performance</h2>
+    <h2>Gran rendimiento</h2>
 
     <p>
-        Preact es rápido, y no solo por su peso. Es una de las librerías de Virtual DOM más rápidas que vas a encontrar, gracias a su implementación de diffing simple y predecible.
+        Preact es rápido y no solo por su tamaño; es una de las librerías del Virtual DOM más rápidas que vas a encontrar, gracias a su implementación de diffing simple y predecible.
     </p>
 
     <p>
-        También incluye agregados extra de performance como actualizaciones customizables en batch, async rendering opcional, reciclado del DOM y manejo de eventos optimizado via [Estado Asociado](/guide/linked-state).
+        También incluye agregados extra de rendimiento como actualizaciones customizables en lotes, renderizado asíncrono opcional, reciclado del DOM y manejo de eventos optimizado via [Estado Asociado](/guide/linked-state).
     </p>
 </section>
 
@@ -82,11 +80,11 @@ toc: false
     <h2>Portable y embebible</h2>
 
     <p>
-        La pequeña huella que deja Preact significa que puedes tomar el poderoso paradigma del Componente de Virtual DOM a nuevos lugares donde de otra manera no podría entrar.
+        El mínimo uso de recursos de Preact permite tomar el poderoso paradigma de Componentes del Virtual DOM a nuevos lugares que de otra manera no sería posible.
     </p>
 
     <p>
-        Usa Preact para crear partes de una aplicación sin integración compleja. Embebe Preact en un widget y usa las mismas herramientas y técnicas que usarías para crear una app completa.
+        Preact puede usarse para desarrollar partes de una aplicación sin integración compleja. Embebe Preact en un widget y usa las mismas herramientas y técnicas que usarías para crear una aplicación completa.
     </p>
 </section>
 
@@ -97,13 +95,12 @@ toc: false
     <h2>Productividad instantánea</h2>
 
     <p>
-        La liviandad es mucho más divertida cuando no tienes que sacrificar productividad para llegar a ella.
-        Preact habilita tu productividad desde el comienzo. De hecho tiene algunos bonus:
+        La ligereza es mucho más divertida cuando no tienes que sacrificar productividad para alcanzarla. Preact habilita tu productividad desde el comienzo. De hecho tiene algunos bonus:
     </p>
 
     <ul>
         <li>`props`, `state` y `context` son pasados a `render()`</li>
-        <li>Usa atributos HTML standard como `class` y `for`</li>
+        <li>Usa atributos HTML estándar como `class` y `for`</li>
         <li>Compatible con las herramientas de desarrollo de React</li>
     </ul>
 </section>
@@ -115,19 +112,17 @@ toc: false
     <h2>Ecosistema compatible</h2>
 
     <p>
-        Los Componentes de Virtual DOM hacen simple compartir elementos reusables - desde botones hasta proveedores de data.
-        El diseño de Preact significa también que tienes miles de Componentes disponibles desde el ecosistema de React.
+        Los Componentes del Virtual DOM facilitan el compartir elementos reusables —desde botones hasta proveedores de datos. El diseño de Preact significa que puedes hacer uso de miles de Componentes disponibles en el ecosistema de React sin inconvenientes.
     </p>
 
     <p>
-        Agregando un simple alias a
-        <a href="/guide/switching-to-preact#how-to-alias-preact-compat">preact-compat</a> en tu bundler provee una capa de compatibilidad que habilita incluso los componentes de React más complejos para ser usados en tu aplicación.
+        Agregando un simple alias a <a href="/guide/switching-to-preact#how-to-alias-preact-compat">preact-compat</a> en tu bundler provee una capa de compatibilidad que habilita incluso los componentes de React más complejos para ser usados en tu aplicación.
     </p>
 </section>
 
 
 <section class="home-top">
-    <h1>Míralo en acción.</h1>
+    <h1>Míralo en acción</h1>
 </section>
 
 
@@ -217,7 +212,7 @@ render(
 
 
 <section class="home-top">
-    <h1>¿Preparada/o para meterte de lleno?</h1>
+    <h1>¿Preparada/o para indagar a profundidad?</h1>
 </section>
 
 
